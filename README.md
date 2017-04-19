@@ -1,6 +1,6 @@
 # npmtest-ember-cli-flash
 
-#### test coverage for  [ember-cli-flash (v1.4.2)](https://github.com/poteto/ember-cli-flash)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-flash.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-flash)
+#### basic test coverage for  [ember-cli-flash (v1.4.2)](https://github.com/poteto/ember-cli-flash)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-flash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-flash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-flash.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-flash)
 
 #### Simple, highly configurable flash messages for ember-cli
 
